@@ -1,7 +1,5 @@
 // src/components/Testimoni.tsx
 
-import React from "react";
-
 const testimoni = [
   {
     name: "Dr. Andi Wijaya",
