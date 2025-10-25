@@ -1,2 +1,0 @@
-# kantin-joglo
-project skripsi
